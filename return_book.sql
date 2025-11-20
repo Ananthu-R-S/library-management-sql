@@ -1,4 +1,4 @@
--- Step 4: Return a Book
+-- Return a Book
 
 UPDATE IssueRecords
 SET return_date = CURDATE()
