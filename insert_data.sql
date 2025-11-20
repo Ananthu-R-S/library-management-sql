@@ -1,4 +1,4 @@
--- Step 2: Insert Sample Data
+-- Insert Sample Data
 
 INSERT INTO Members (name, email, phone)
 VALUES 
