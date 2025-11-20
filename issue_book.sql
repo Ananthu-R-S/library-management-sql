@@ -1,4 +1,4 @@
---  Step 3: Issue a Book
+-- Issue a Book
 
 INSERT INTO IssueRecords (member_id, book_id, issue_date)
 VALUES (1, 2, CURDATE());
