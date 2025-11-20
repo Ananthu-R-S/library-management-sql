@@ -1,4 +1,4 @@
---  Step 1: Create Tables for Library Management
+--Create Tables for Library Management
 
 CREATE TABLE Members (
     member_id INT PRIMARY KEY AUTO_INCREMENT,
